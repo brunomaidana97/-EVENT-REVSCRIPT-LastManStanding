@@ -1,4 +1,4 @@
-# -EVENT-REVSCRIPT-LastManStanding
+# EVENT REVSCRIPT / LastManStanding
 
 **Observações:**
 
