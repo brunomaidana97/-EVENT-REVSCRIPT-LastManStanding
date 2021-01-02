@@ -11,6 +11,7 @@
 
 » *O evento tem por finalidade, randomizar sobre os sqm do mapa um sqm, se o player estiver sobre ele, o mesmo é expulso do evento.*<br>
 » *O player que ficar até o final, ganha o evento.*<br>
+» *O evento tem velocidades diferentes, quanto menos player, mais rapido os sqm irão se transformar, quanto mais player, mais lento irão se transformar.*
   
 
 2. **Como instalar?**
